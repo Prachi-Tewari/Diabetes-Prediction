@@ -1,5 +1,5 @@
 # Diabetes-Prediction
-Diabetes Prediction using Support Vector Machine Model
+Diabetes Prediction using Support Vector Machine Model.
 This project aims to predict the likelihood of diabetes in individuals using machine learning techniques, specifically Support Vector Machine (SVM) model.
 
 
